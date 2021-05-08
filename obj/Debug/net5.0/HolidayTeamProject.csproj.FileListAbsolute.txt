@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\bin\Debug\net5.0\HolidayTeamProject.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\bin\Debug\net5.0\HolidayTeamProject.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\bin\Debug\net5.0\HolidayTeamProject.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\bin\Debug\net5.0\HolidayTeamProject.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\bin\Debug\net5.0\HolidayTeamProject.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\bin\Debug\net5.0\ref\HolidayTeamProject.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\bin\Debug\net5.0\HolidayTeamProject.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\HolidayTeamProject.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\HolidayTeamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\HolidayTeamProject.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\HolidayTeamProject.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\HolidayTeamProject.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\HolidayTeamProject.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\ref\HolidayTeamProject.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\HolidayTeamProject.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\HolidayTeamProject\obj\Debug\net5.0\HolidayTeamProject.genruntimeconfig.cache
